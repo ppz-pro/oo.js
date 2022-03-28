@@ -1,0 +1,28 @@
+{
+  "name": "@ppzp/oo",
+  "version": "0.0.0",
+  "description": "为 js 提供新的面向对象解决方案",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppz-pro/oo.js.git"
+  },
+  "keywords": [
+    "oo"
+  ],
+  "author": "gy",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ppz-pro/oo.js/issues"
+  },
+  "homepage": "https://github.com/ppz-pro/oo.js#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
